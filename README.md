@@ -17,3 +17,5 @@ The website features a pink fashion-inspired design, original page layouts and i
 
 ## Website Screenshots
 Screenshots of the original website will be added here. The source code is no longer available, as this is an earlier personal project.
+
+[View the Floral website screenshot](floral.png)
